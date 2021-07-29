@@ -1,3 +1,8 @@
+# Others
+packages/
+.vs/
+x64/
+
 # Prerequisites
 *.d
 
